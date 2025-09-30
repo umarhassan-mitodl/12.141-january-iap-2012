@@ -28,6 +28,7 @@
     "website": "12-141-electron-microprobe-analysis-january-iap-2012"
   },
   "course_title": "Electron Microprobe Analysis",
+  "hide_download": true,
   "course_description": "The electron microprobe provides a complete micrometer-scale quantitative chemical analysis of inorganic solids. The method is nondestructive and utilizes characteristic X-rays excited by an electron beam incident on a flat surface of the sample. This course provides an introduction to the theory of X-ray microanalysis through wavelength and energy dispersive spectrometry (WDS and EDS), ZAF matrix correction procedures and scanning electron imaging with back-scattered electron (BSE), secondary electron (SE), X-ray using WDS or EDS (elemental mapping), and cathodoluminescence (CL). Lab sessions involve hands-on use of the JEOL JXA-8200 Superprobe.\n",
   "department_numbers": [
     "12"
@@ -38,6 +39,7 @@
     "content": "3d9ab3df-5cf5-8ff0-2fbf-8aa4496c2000",
     "website": "12-141-electron-microprobe-analysis-january-iap-2012"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Exams",
     "Lecture Notes",

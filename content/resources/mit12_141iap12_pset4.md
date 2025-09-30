@@ -4,6 +4,8 @@ description: New file Upload
 file: /courses/12-141-electron-microprobe-analysis-january-iap-2012/64a21bfba7ca31ffb45e43d02d2334e4_MIT12_141IAP12_pset4.pdf
 file_size: 197263
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

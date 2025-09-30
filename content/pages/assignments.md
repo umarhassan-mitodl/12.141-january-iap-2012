@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the problem sets for the course.  Solutions are
   provided for Problem Set 4.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
